@@ -20,4 +20,4 @@ services:
       context: ./frontend/list_of_movies
       dockerfile: ./Dockerfile
     ports:
-      - "8080:80"
+      - "8081:80"
