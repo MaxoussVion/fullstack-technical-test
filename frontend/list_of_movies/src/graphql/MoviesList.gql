@@ -1,0 +1,12 @@
+query MoviesList {
+  movies{
+     id
+     rank
+     title
+     synopsis
+     director
+     duration
+  }
+}
+
+
